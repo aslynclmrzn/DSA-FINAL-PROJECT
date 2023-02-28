@@ -1,0 +1,15 @@
+       
+        ======================================================
+        ************   Graduate(M1) Level   ************
+        ======================================================
+        Overall Average (major and minor) for all terms:82,
+        Average (major and minor) of each term:25
+        
+	Term 1: 76
+	Term 2: 86
+	Term 3: 82
+	Term 4: 85
+        Maximum grade(s) and in which term(s):Term - 2, Grade- 99. 
+        Minimum grade(s) and in which term(s):Term - 1, Grade- 75.  
+        Do you have any repeated course(s)?No,
+        

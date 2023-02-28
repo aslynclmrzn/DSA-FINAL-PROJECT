@@ -1,0 +1,18 @@
+       
+        ======================================================
+        ************   Graduate(D1) Level   ************
+        ======================================================
+        Overall Average (major and minor) for all terms:82
+        Average (major and minor) of each term:24
+        
+	Term 1.0: 76
+	Term 2.0: 77
+	Term 3.0: 82
+	Term 4.0: 78
+	Term 5.0: 84
+	Term 6.0: 89
+	Term 7.0: 89
+        Maximum grade(s) and in which term(s):Term - 6.0, Grade- 99 
+        Minimum grade(s) and in which term(s):Term - 4.0, Grade- 70  
+        Do you have any repeated course(s)?Yes, CourseA2
+        

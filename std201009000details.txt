@@ -1,0 +1,14 @@
+Name: Mohammad Ibrahim Ali
+        stdID: 201009000
+        Level(s): U
+        Number of terms: 8
+        College(s): College4
+        Department(s): C4Department2
+
+Name: Mohammad Ibrahim Ali
+        stdID: 201009000
+        Level(s): G
+        Number of terms: 3
+        College(s): College4
+        Department(s): C4Department2
+        

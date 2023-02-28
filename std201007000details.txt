@@ -1,0 +1,8 @@
+
+Name: Ali Mohamamd Hadi
+        stdID: 201007000
+        Level(s): U
+        Number of terms: 7
+        College(s): College 2
+        Department(s): C2Department2
+        

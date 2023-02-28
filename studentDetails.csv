@@ -1,0 +1,10 @@
+Serial,stdID,Name,College,Department,Level,Degree,Major,Minor,Terms
+1,201006000,Ibrahim Ahmed Nemer,College 1,C1Department1,U,BS1,C1D1MajorBS1,C1D1MinorBS1,8
+2,201006000,Ibrahim Ahmed Nemer,College 1,C1Department1,G,M1,C1D1MajorM1,C1D1MinorM1,4
+3,201006000,Ibrahim Ahmed Nemer,College 1,C1Department1,G,D1,C1D1MajorD1,C1D1MinorD1,6
+4,201007000,Ali Mohamamd Hadi,College 2,C2Department2,U,BS1,C2D1MajorBS1,C2D1MinorBS1,7
+5,201008000,Ahmed Ali Mohammad,College 3,C3Department3,G,M1,C3D1MajorM1,C3D1MinorM1,4
+6,201008000,Ahmed Ali Mohammad,College 1,C1Department1,G,M2,C1D1MajorM2,C1D1MinorM2,3
+7,201009000,Mohammad Ibrahim Ali,College 4,C4Department4,U,BS1,C4D2MajorBS1,C4D2MinorBS1,8
+8,201009000,Mohammad Ibrahim Ali,College 4,C4Department4,G,M1,C4D2MajorM1,C4D2MinorM1,3
+9,201101000,Kamal Abdallah Mohammad,College 5,C5Department5,G,D1,C5D1MajorD1,C5D1MinorD1,7

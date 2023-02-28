@@ -1,0 +1,33 @@
+ Name: Ibrahim Ahmed Nemer              stdID: 201006000
+         College: College 1              Department: C1Department1
+         Major: C1D1MajorM1              Minor: C1D1MinorM1
+         Level: G              Number of terms: 4
+        ======================================================
+            ************      Term 1     ************
+            ======================================================
+            course id   course name     credit hours    grade
+		CP11       CourseP11        3       81
+			Major Average = 27    		Overal Average = 81
+            ======================================================
+            ************      Term 2     ************
+            ======================================================
+            course id   course name     credit hours    grade
+		CP21       CourseP21        4       83
+		CP31       CourseP31        3       85
+			Major Average = 24    		Overal Average = 84
+            ======================================================
+            ************      Term 3     ************
+            ======================================================
+            course id   course name     credit hours    grade
+		CX1       CourseX1        4       82
+			Major Average = 20    		Overal Average = 82
+            ======================================================
+            ************      Term 4     ************
+            ======================================================
+            course id   course name     credit hours    grade
+		CX11       CourseX11        3       96
+			Major Average = 32    		Overal Average = 96
+            ======================================================
+                ************End of Transcript for Level (G)  ************
+                ======================================================
+            

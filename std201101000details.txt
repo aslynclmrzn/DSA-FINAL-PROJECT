@@ -1,0 +1,8 @@
+
+Name: Kamal Abdallah Mohammad
+        stdID: 201101000
+        Level(s): G
+        Number of terms: 7
+        College(s): College 5
+        Department(s): C5Department5
+        
